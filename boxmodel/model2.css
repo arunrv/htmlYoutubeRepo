@@ -1,0 +1,14 @@
+h1 {
+  background: royalblue;
+  color: white;
+  width: 300px;
+  text-align: center;
+  padding: 10px;
+  border-style: solid;
+  border-width: 15px;
+  border-color: red;
+  margin: 100px;
+  outline: 20px solid pink;
+  outline-offset: 30px;
+  border-radius: 20%;
+}

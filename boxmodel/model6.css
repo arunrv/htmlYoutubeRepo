@@ -1,0 +1,11 @@
+.one {
+  height: 100px;
+  width: 100px;
+  background: linear-gradient(red, green);
+  margin-bottom: 10px;
+}
+.two {
+  height: 100px;
+  width: 100px;
+  background: linear-gradient(to top, red, green);
+}

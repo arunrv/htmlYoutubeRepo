@@ -1,0 +1,19 @@
+.outer {
+  background: red;
+  width: 500px;
+  height: 500px;
+}
+.inner {
+  background: blue;
+  width: 100%;
+  height: 50%;
+}
+div {
+  font-size: 10px;
+}
+.absolute {
+  font-size: 2em;
+}
+.relative {
+  font-size: 32px;
+}

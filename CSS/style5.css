@@ -1,0 +1,12 @@
+.first {
+  color: red;
+  background: lightskyblue;
+}
+.second {
+  color: white;
+  background: darkblue;
+}
+* {
+  color: rgb(100, 89, 150);
+  background: rgb(0, 0, 0);
+}

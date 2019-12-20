@@ -1,0 +1,21 @@
+.big {
+  background: royalblue;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background: url(test1.jpg);
+  width: 400px;
+  height: 400px;
+  margin: auto;
+  margin-bottom: 30px;
+  opacity: 1;
+}
+.small {
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background: url(test2.jpg);
+  width: 400px;
+  height: 400px;
+  margin: auto;
+  padding: 30px;
+  box-sizing: border-box;
+}

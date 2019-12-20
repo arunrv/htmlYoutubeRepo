@@ -1,0 +1,27 @@
+.one {
+  float: left;
+  height: 300px;
+  width: 33.33%;
+  background: red;
+}
+.two {
+  float: left;
+  height: 300px;
+  width: 33.33%;
+  background: green;
+}
+.three {
+  float: left;
+  height: 300px;
+  width: 33.33%;
+  background: blue;
+}
+.four {
+  float: left;
+  height: 300px;
+  width: 33.33%;
+  background: blue;
+}
+h1 {
+  clear: both;
+}

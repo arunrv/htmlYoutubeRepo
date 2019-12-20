@@ -1,0 +1,17 @@
+div {
+  background: yellow;
+  border: 5px solid red;
+  position: relative;
+}
+.one {
+  background: blue;
+  position: relative;
+  right: 10px;
+  bottom: 10px;
+}
+.two {
+  background: green;
+}
+.three {
+  background: magenta;
+}

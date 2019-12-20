@@ -1,0 +1,11 @@
+.banner {
+  width: 50vw;
+  height: 50vw;
+  background: red;
+}
+
+.header {
+  width: 100vw;
+  height: 100vw;
+  background: blue;
+}

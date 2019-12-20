@@ -1,0 +1,22 @@
+body {
+  background: yellow;
+}
+.one {
+  background: green;
+  border: 5px solid red;
+  border-radius: 20px;
+}
+
+@media screen and (min-width: 576px) {
+  body {
+    background: red;
+  }
+
+  .one {
+    background: blue;
+    font: green;
+  }
+  h1 {
+    color: green;
+  }
+}

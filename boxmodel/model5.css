@@ -1,0 +1,18 @@
+.big {
+  background: url(Lakshmi_Photo1.jpg);
+  min-height: 400px;
+  min-width: 400px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  text-align: center;
+}
+
+.small {
+  background: url(test1.jpg);
+  min-height: 400px;
+  min-width: 400px;
+  background-repeat: no-repeat;
+  background-position: center;
+  text-align: center;
+}

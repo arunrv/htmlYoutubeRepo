@@ -1,0 +1,12 @@
+.c1 {
+  font-size: 2rem;
+  background: red;
+  color: white;
+  height: 100px;
+}
+.c2 {
+  font-size: 2rem;
+  background: skyblue;
+  color: darkorange;
+  min-height: calc(100vh - 100px);
+}

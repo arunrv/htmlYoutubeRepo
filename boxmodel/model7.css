@@ -1,0 +1,25 @@
+.aaa {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 60px;
+  color: orange;
+  background: url(Lakshmi_Photo1.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.bbb {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 60px;
+  color: orange;
+  background: url(test1.jpg);
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}

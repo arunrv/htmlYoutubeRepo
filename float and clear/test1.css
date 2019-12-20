@@ -1,0 +1,14 @@
+.banner {
+  border: 5px solid red;
+  padding: 50px;
+}
+#adf {
+  height: 200px;
+  float: none;
+}
+#p1 {
+  clear: left;
+}
+#i3 {
+  float: left;
+}
